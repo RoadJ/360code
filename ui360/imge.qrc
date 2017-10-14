@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>imge/openfile.png</file>
+        <file>imge/mirrorhorizontal.png</file>
+        <file>images/perspective.png</file>
+        <file>images/telescope.png</file>
+    </qresource>
+</RCC>
