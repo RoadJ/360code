@@ -1,0 +1,27 @@
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/gen/org/stitching/example/R.java \
+ : /home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-pt-rBR/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-de/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-zh-rCN/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-rs/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-et/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-el/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-ja/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-es/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-it/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-pl/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-fa/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-nl/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-fr/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-ru/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-ms/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values/libs.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-zh-rTW/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/drawable-hdpi/icon.png \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-ro/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/drawable-ldpi/icon.png \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/drawable-mdpi/icon.png \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/layout/splash.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-nb/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/res/values-id/strings.xml \
+/home/hu/qt/projects/360/stitching_v7_9286/android-build/bin/AndroidManifest.xml \
